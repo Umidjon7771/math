@@ -11,6 +11,7 @@ class LevelOne extends StatefulWidget {
 
   // here a want to pull it from bash!
   // here i want to push it from studio!
+  // bu yerdan yani githubdan buni yozdim!
   @override
   State<LevelOne> createState() => _LevelOneState();
 }
